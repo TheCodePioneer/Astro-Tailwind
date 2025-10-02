@@ -1,0 +1,14 @@
+astro-tailwind/
+│── public/
+│── src/
+│   ├── components/
+│   │   └── Header.astro
+│   └── pages/
+│       └── index.astro
+│── .gitignore
+│── astro.config.mjs
+│── package.json
+│── postcss.config.cjs
+│── tailwind.config.cjs
+│── tsconfig.json
+│── README.md
